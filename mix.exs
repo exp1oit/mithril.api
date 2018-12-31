@@ -78,7 +78,7 @@ defmodule Mithril.Mixfile do
       contributors: ["Edenlab"],
       maintainers: ["Edenlab"],
       licenses: ["LISENSE.md"],
-      links: %{github: "https://github.com/edenlabllc/mithril.api"},
+      links: %{github: "https://github.com/exp1oit/mithril.api"},
       files: ~w(lib LICENSE.md mix.exs README.md)
     ]
   end
