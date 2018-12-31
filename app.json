@@ -2,7 +2,7 @@
   "name": "Mithril",
   "description": "Authentication and role management service.",
   "keywords": ["elixir", "application", "oAuth", "authentication", "role based access control", "rbac"],
-  "repository": "https://github.com/edenlabllc/mithril.api",
+  "repository": "https://github.com/exp1oit/mithril.api",
   "success_url": "/",
   "env": {
     "HOST": {
@@ -45,7 +45,7 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/HashNuke/heroku-buildpack-elixir.git"
+      "url": "https://github.com/exp1oit/heroku-buildpack-elixir.git"
     }
   ],
   "scripts": {
